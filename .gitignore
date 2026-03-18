@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Auto-generated at runtime — not committed
+game_state.json
+
+# Per-player persistent memory — local to each machine
+memory/
+
+# BMAD planning artifacts — not part of the project
+_bmad/
+_bmad-output/

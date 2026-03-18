@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Task",
+      "Read",
+      "Write",
+      "Bash"
+    ]
+  },
+  "enabledPlugins": {
+    "compound-engineering@compound-engineering-plugin": true
+  }
+}
